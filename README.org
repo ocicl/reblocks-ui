@@ -1,0 +1,9 @@
+* reblocks-ui
+
+A set of UI widgets and utilities for the Reblocks web framework.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/40ants/reblocks-ui.git      |
+| commit  | a977931                                            |
+| systems | reblocks-ui                                        |
+|---------+----------------------------------------------------|
